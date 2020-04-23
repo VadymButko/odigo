@@ -11,7 +11,7 @@
 
 //Burger handler
 
-(function() {
+(function () {
     const burgerItem = document.querySelector('.burger');
     const menu = document.querySelector('.header__nav');
     const menuCloseItem = document.querySelector('.header__nav-close');
